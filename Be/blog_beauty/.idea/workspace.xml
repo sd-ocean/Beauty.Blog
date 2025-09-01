@@ -4,54 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04078e96-b238-4bf4-b888-24f66e1ce30d" name="Changes" comment="" />
+    <list default="true" id="52215d5a-acc0-4910-8f32-aeb2b4d9081b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/blog_glow_up">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="31wc1XdPXHt4g9wzbnLwqohnu0i" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="31wchzXyqN9Nzm2lblyDLU65js0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/ADMIN/Downloads/blog_glow_up/blog_glow_up"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.blog_glow_up.repository" />
+      <recent name="com.example.blog_glow_up.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BlogGlowUpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog_glow_up" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.blog_glow_up.BlogGlowUpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="04078e96-b238-4bf4-b888-24f66e1ce30d" name="Changes" comment="" />
-      <created>1756438361808</created>
+      <changelist id="52215d5a-acc0-4910-8f32-aeb2b4d9081b" name="Changes" comment="" />
+      <created>1756438698579</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1756438361808</updated>
-      <workItem from="1756438364890" duration="332000" />
+      <updated>1756438698579</updated>
+      <workItem from="1756438699676" duration="9511000" />
     </task>
     <servers />
   </component>
