@@ -1,0 +1,1 @@
+lần đầu chạy mở terminal cd frontend chạy npm i ( nếu là lần đầu) -> npm start
