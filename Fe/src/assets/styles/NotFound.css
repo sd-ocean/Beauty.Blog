@@ -1,0 +1,51 @@
+.notfound-wrapper {
+  text-align: center;
+  padding: 80px 20px;
+  background: linear-gradient(to bottom, #ffe4ec, #fdf6f8);
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+}
+
+.seal-image {
+  width: 220px;
+  height: 220px;
+  margin: 0 auto 30px;
+  background-image: url("../images/lamdeplogo.jpg"); /* Đặt hình ở thư mục public/images */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: wave 2s infinite ease-in-out;
+}
+
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(5deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(-5deg); }
+  100% { transform: rotate(0deg); }
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+  color: #e91e63;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.home-button {
+  padding: 12px 24px;
+  background-color: #e91e63;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+  background-color: #d81b60;
+}
